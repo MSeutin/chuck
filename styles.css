@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    margin: 3em;
+    text-align: center;
+    background-color: chocolate;
+}
+
+.get-joke{
+    margin: 3em;
+    padding: 1em;
+}
+
+.display{
+    background-color: darkgreen;
+    color: whitesmoke;
+    padding: 2em;
+}
