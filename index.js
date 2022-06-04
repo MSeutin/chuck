@@ -1,4 +1,4 @@
-let btnJ = document.querySelector(".get-joke");
+let btnJ = document.querySelector(".joke-btn");
 let display = document.querySelector(".display");
 
 btnJ.addEventListener("click", joke);
